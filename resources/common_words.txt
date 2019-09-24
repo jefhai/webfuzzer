@@ -1,0 +1,6 @@
+about
+admin
+archive
+assets
+auth
+templete

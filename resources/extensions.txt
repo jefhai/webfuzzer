@@ -1,0 +1,5 @@
+.asp
+.html
+.js
+.jsp
+.php
